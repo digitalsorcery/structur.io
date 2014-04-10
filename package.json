@@ -9,16 +9,19 @@
 	"repository": {
 		"url": ""
 	},
+	"main": "index",
 	"bin": {
 		"structur.io": "./bin/structur.io"
-	}
+	},
 	"dependencies": {
 	},
 	"devDependencies": {
 	},
 	"optionalDependencies": {
 	},
-	"engines": {
-		"node": "*"
-	}
+	"engines": [
+		"node >= 0.10.5"
+	],
+	"_id": "structur.io@0.1.0",
+	"_from": "structur.io@"
 }
