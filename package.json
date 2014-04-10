@@ -1,0 +1,24 @@
+{
+	"name": "structur.io",
+	"description": "Build, deploy and manage your web-services faster with structur.io",
+	"version": "0.1.0",
+	"author": {
+		"name": "Kory Herzinger",
+		"email": "kory@structur.io"
+	},
+	"repository": {
+		"url": ""
+	},
+	"bin": {
+		"structur.io": "./bin/structur.io"
+	}
+	"dependencies": {
+	},
+	"devDependencies": {
+	},
+	"optionalDependencies": {
+	},
+	"engines": {
+		"node": "*"
+	}
+}
